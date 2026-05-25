@@ -1,5 +1,6 @@
-class no:
-    def_init_(self, valor):
+class No:
+
+    def __init__(self, valor):
         self.dado = valor
         self.esq = None
-        self.dir None
+        self.dir = None
