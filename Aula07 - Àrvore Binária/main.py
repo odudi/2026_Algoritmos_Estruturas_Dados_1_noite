@@ -6,7 +6,7 @@ a = Arvore()
 # inserções
 a.raiz = a.inserir(a.raiz, 48)
 a.raiz = a.inserir(a.raiz, 22)
-a.raiz = a.inserir(a.raiz, 17)
+a.raiz = a.inserir(a.raiz, 17)   
 a.raiz = a.inserir(a.raiz, 13)
 a.raiz = a.inserir(a.raiz, 64)
 a.raiz = a.inserir(a.raiz, 75)
